@@ -1,0 +1,6 @@
+# Tells Netlify where your serverless functions live, so a manual
+# (drag-and-drop) deploy picks them up. This file sits in the root of
+# your project folder, next to index.html.
+
+[functions]
+  directory = "netlify/functions"
